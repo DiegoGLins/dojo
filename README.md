@@ -9,6 +9,7 @@ Além disso o novo usuário precisava ter um email válido: gmail, outlook, hotm
 Foi utilizao o redux para gerenciamento de estado do login e cadastro do usuário
    </p>
 </div>
+<br/>
 <div>
    <img src="https://github.com/DiegoGLins/dojo/assets/107010634/1829dce7-66cf-4f54-be82-14e881356f57" width='40%' alt='login-dojo'/>
    <img src="https://github.com/DiegoGLins/dojo/assets/107010634/df252861-ca37-4c78-81ec-8307f6e6f3a4" width='40%' alt='cadastro-dojo'/>
