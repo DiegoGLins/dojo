@@ -9,8 +9,8 @@ O objetivo da atividade consiste em criar uma tela de casdastro e de login, leva
 Na tela de cadastro uma das exigências era ter uma validação que não permitisse que o novo usuário cadastrasse uma senha que tivesse uma sequência númerica como: "123,012,456,789", etc. e a mesma precisava ter no mínimo 5 caractéres.
    </p>
    <p>
-      Além disso o novo usuário precisava ter um email válido: gmail, outlook, hotmail, etc
-Foi utilizao o redux para gerenciamento de estado do login e cadastro do usuário
+      Além disso o novo usuário precisava ter um email válido: gmail, outlook, hotmail, etc.
+Foi utilizado o redux para gerenciamento de estado do login e cadastro do usuário
    </p>
 </div>
 <br/>
